@@ -1,0 +1,35 @@
+_repo: Malombra-b-Romaani_74996
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Brinis, Hila
+    gutenberg_agent_id: '57763'
+    url: http://www.gutenberg.org/2009/agents/57763
+creator:
+  author:
+    agent_name: Fogazzaro, Antonio
+    birthdate: 1842
+    deathdate: 1911
+    gutenberg_agent_id: '2759'
+    url: http://www.gutenberg.org/2009/agents/2759
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Antonio_Fogazzaro
+    - https://it.wikipedia.org/wiki/Antonio_Fogazzaro
+description: ''
+gutenberg_issued: '2024-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74996'
+language: fi
+pgterms:marc905: 20241114040620fogazzaro
+pgterms:marc906: '1924'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Malombra : $b Romaani'
+url: http://www.gutenberg.org/ebooks/74996
